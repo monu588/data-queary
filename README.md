@@ -1,2 +1,0 @@
-# data-queary
-project
